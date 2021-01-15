@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/letter-frequencies/static/css/main.ff1f358d.chunk.css",
+    "main.js": "/letter-frequencies/static/js/main.7e5ddaeb.chunk.js",
+    "main.js.map": "/letter-frequencies/static/js/main.7e5ddaeb.chunk.js.map",
+    "runtime-main.js": "/letter-frequencies/static/js/runtime-main.bfdaa8cd.js",
+    "runtime-main.js.map": "/letter-frequencies/static/js/runtime-main.bfdaa8cd.js.map",
+    "static/js/2.f55de34b.chunk.js": "/letter-frequencies/static/js/2.f55de34b.chunk.js",
+    "static/js/2.f55de34b.chunk.js.map": "/letter-frequencies/static/js/2.f55de34b.chunk.js.map",
+    "static/js/3.fbec0a21.chunk.js": "/letter-frequencies/static/js/3.fbec0a21.chunk.js",
+    "static/js/3.fbec0a21.chunk.js.map": "/letter-frequencies/static/js/3.fbec0a21.chunk.js.map",
+    "index.html": "/letter-frequencies/index.html",
+    "static/css/main.ff1f358d.chunk.css.map": "/letter-frequencies/static/css/main.ff1f358d.chunk.css.map",
+    "static/js/2.f55de34b.chunk.js.LICENSE.txt": "/letter-frequencies/static/js/2.f55de34b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfdaa8cd.js",
+    "static/js/2.f55de34b.chunk.js",
+    "static/css/main.ff1f358d.chunk.css",
+    "static/js/main.7e5ddaeb.chunk.js"
+  ]
+}

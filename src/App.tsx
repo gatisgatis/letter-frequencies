@@ -33,7 +33,7 @@ function App() {
               {Object.entries(frequencies).length ? (
                 Object.entries(frequencies).map(([key, value]) => {
                   return (
-                    <div className="col-xs-3 col-md-2" key={key}>
+                    <div className="col-xs-4 col-sm-3 col-md-2" key={key}>
                       <div key={key} className="pair">
                         {key} : {value}
                       </div>
